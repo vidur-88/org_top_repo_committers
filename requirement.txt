@@ -1,0 +1,2 @@
+requests==1.2.3
+lettuce==0.2.23
