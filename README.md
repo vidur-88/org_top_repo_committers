@@ -9,7 +9,7 @@ Run this app
 
 + Then run
 
-  python __init__.py <org_name> <num_top_repo> <num_of_committees>
+  python \_\_init\_\_.py \<org_name\> \<num_top_repo\> \<num_of_committees\>
 
 + Run test cases
 
