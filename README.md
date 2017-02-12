@@ -24,3 +24,13 @@ Run this app
         |  microsoft  |     3            |      4              |   microsoft     |       3               |
         |  google     |     5            |      2              |   google        |       5               |
 
+
+
+\_\_init\_\_.py result screenshot:
+![init_result]
+(init_result.png)
+
+
+Test cases report screenshot
+![test case report]
+(test_cases_report.png)
