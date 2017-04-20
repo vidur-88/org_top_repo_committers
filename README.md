@@ -1,5 +1,5 @@
 # org_top_repo_committers
-This is for getting m top repos of any organization and top committees of each repos
+This is for getting **m** number of top repos of any organization and **n** number of top committees of each repos
 
 Run this app
 -------------
@@ -17,8 +17,8 @@ Run this app
 
 + Changing in test cases
 
-  You can change test cases, file: `test/features/org_repo_services_test.feature`
-  Add your test cases in examples contents, like:
+  You can change the test cases, file: `test/features/org_repo_services_test.feature`
+  Add your test cases in examples contents:
   
         |  org        |  num_top_repos   |  num_of_committees  |  result_org     |  result_num_top_repo  |
         |  microsoft  |     3            |      4              |   microsoft     |       3               |
