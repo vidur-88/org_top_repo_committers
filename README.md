@@ -28,9 +28,9 @@ Run this app
 
 \_\_init\_\_.py result screenshot:
 ![init_result]
-(init_result.png)
+(https://github.com/vidur-88/org_top_repo_committers/blob/master/init_result.png)
 
 
 Test cases report screenshot
 ![test case report]
-(test_cases_report.png)
+(https://github.com/vidur-88/org_top_repo_committers/blob/master/test_cases_report.png)
